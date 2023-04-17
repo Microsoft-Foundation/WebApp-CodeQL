@@ -1,7 +1,7 @@
 ---
-name: Issue: 🎁 User Story
+name: Issue:User Story
 about: Use this template for User Story
-title: Issue: 🎁 User Story
+title: Issue:User Story
 labels: User Story
 assignees: ''
 
